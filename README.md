@@ -22,3 +22,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=black&style=for-the-badge&logo=Twitter)](https://twitter.com/ashurov_017)
 [![](https://img.shields.io/static/v1?label=&message=Linkedin&color=black&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammaddiyor-ashurov-a44676248/)
 [![vk](https://img.shields.io/static/v1?label=&message=vk&color=black&style=for-the-badge&logo=vk)](https://vk.com/ashurov_017)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshurovMuhammad&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshurovMuhammad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
